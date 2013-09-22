@@ -1,6 +1,10 @@
 Tetris
 ======
 
+###Lead Developers: Shahzaib Bhatti & Saad Asif###
+###Project Length: Two-Days###
+###June 2010###
+
 Controls
 ======
 - Start the game by pressing enter
@@ -9,6 +13,9 @@ Controls
 - Press the down arrow key to drop the piece faster and up arrow to place the piece below
 - As you make more lines and level up, the pieces come down faster
 - It's game over once a piece gets locked in place and any part of it is above the on screen line
+
+
+Note: Due the two-day time span of the game, brute force solutions have not been refactored
 
 Screenshots
 ======
