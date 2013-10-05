@@ -2,7 +2,6 @@ Tetris
 ======
 
 ###Lead Developers: Shahzaib Bhatti & Saad Asif###
-###Project Length: Two-Days###
 ###June 2010###
 
 Originally made for a Computer Science class as a Grade 11 introduction to applets
